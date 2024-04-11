@@ -1,0 +1,2 @@
+# IMDB-Web-Scrapping
+this is a project where I used beautiful soup for web scrapping. Mainly we can use selenium for automation testing but for data analysis or scrapping I think pandas or beautiful soup is good library. Here in this project ny Scrapping I add all the movies that has thriller on their nname or in Genres. It was heck of a project because I have to gone through praent to child and search everything. With Selenium we can play with the locators also but here we just can scrap it and play with the data only.
